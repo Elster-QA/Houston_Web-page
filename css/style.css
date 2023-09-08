@@ -1,0 +1,174 @@
+.maintex,
+.tex {
+    transition: all 0.3s ease-in-out;
+}
+
+<style>h3 {
+    color: #c99c43;
+    font-family: sans pro;
+}
+
+
+.allp {
+    background-color: #bdc9e7;
+    background-size: 100%;
+    width: 900px;
+    ;
+    height: auto;
+    padding: 10px;
+    box-shadow: 2px 5px 10px 8px #bdc9e7b9;
+
+
+}
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+
+}
+
+
+
+html {
+    background-image: url("../img/Houston-3.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
+}
+
+.maintex {
+
+    color: rgba(22, 14, 160, 0.808);
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Monserat';
+    transition: color 0.3s;
+    text-decoration: none;
+}
+
+.maintex:hover {
+    color: rgb(18, 145, 219);
+}
+
+
+
+.tex {
+    color: rgba(6, 34, 70, 0.808);
+    font-weight: bold;
+    transition: color 0.3s;
+    text-decoration: none;
+
+}
+
+.tex:hover {
+    color: rgb(106, 108, 211);
+}
+
+
+
+
+
+
+figure {
+    text-align: right;
+    float: right;
+    margin: 5px;
+
+
+
+
+
+}
+
+
+figcaption {
+    text-align: right;
+
+}
+
+
+
+
+
+
+
+
+.tpic {
+    color: #020f35;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.tab {
+    text-align: center;
+    float: right;
+    margin: auto;
+    width: 30%;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.block3 {
+    transform: translateY(10px);
+
+}
+
+.block6 {
+    transform: translateY(20px);
+}
+
+.block12 {
+    transform: translateY(50px);
+}
+
+
+.block13 {
+    transform: translateY(40px);
+}
+
+.block14 {
+    transform: translateY(10px);
+}
+
+.block15 {
+    transform: translateY(20px);
+
+}
+
+.block16 {
+    transform: translateY(20px);
+}
+
+.block17 {
+    transform: translateY(40px);
+}
+
+.fer {
+    text-align: center;
+    color: #0b0118b2;
+    font-family: Geneva, Verdana, sans-serif;
+    margin-top: 40px;
+}
+
+
+
+</style>
